@@ -8,7 +8,6 @@ import LoginForm from '../../components/auth/Login/LoginForm';
 import LoginFooter from '../../components/auth/Login/LoginFooter';
 import LoginButtons from '../../components/auth/Login/LoginButtons';
 
-
 const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     container: {
